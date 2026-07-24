@@ -1,6 +1,6 @@
 cask "cometline" do
   version "1.1.2"
-  sha256 "a6b1d59e266d96d27a65b11fcc3a6d541ee25aebd3d8ed5e8b4c9b1e1a852829"
+  sha256 "e1d2c0b825fd689b7d578151cc5b3860e213a2bbeac90db1f1a9aaeeb65f8d8b"
 
   url "https://github.com/Cometline/cometline/releases/download/v#{version}/Cometline-1.1.2-arm64-mac.zip"
   name "Cometline"
