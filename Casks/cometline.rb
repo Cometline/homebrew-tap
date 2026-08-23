@@ -1,8 +1,8 @@
 cask "cometline" do
-  version "1.3.8"
-  sha256 "c0a43ae74ac7bd214b487f2eff4aac52b7ed0a26630cd710cfa25941caf5b688"
+  version "1.3.9"
+  sha256 "ec9de5781450de56939a77ca2a0975868ddcd9177ecf62c1d2d25f1a930a3abc"
 
-  url "https://github.com/Cometline/cometline/releases/download/v#{version}/Cometline-1.3.8-arm64-mac.zip"
+  url "https://github.com/Cometline/cometline/releases/download/v#{version}/Cometline-1.3.9-arm64-mac.zip"
   name "Cometline"
   desc "Local-first AI companion for your workspace"
   homepage "https://github.com/Cometline/cometline"
